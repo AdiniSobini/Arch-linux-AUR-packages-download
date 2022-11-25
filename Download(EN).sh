@@ -2,9 +2,9 @@
 
 echo "Hi"
 cd ~
-cd Pobrane
-mkdir Pobieranie 
-cd Pobieranie
+cd Download
+mkdir Downloading
+cd Downloading
 echo "Paste link from AUR"
 read zmienna 
 echo "Thx"
