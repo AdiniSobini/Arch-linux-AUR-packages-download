@@ -2,7 +2,6 @@
 
 echo "Hi"
 cd ~
-cd Download
 mkdir Downloading
 cd Downloading
 echo "Paste link from AUR"
